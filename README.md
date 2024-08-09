@@ -1,6 +1,8 @@
 <h1 align="center">Alain Fernando</h1>
 <p align="center">
 <br>
+Sigma Labs Consultant
+<br>
 Based in London
 <br>
 University of Leeds Graduate
